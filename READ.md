@@ -16,3 +16,9 @@
 
 > [!NOTE]
 > Lalu apa perbedaan for in dan for of? Jawabnya yaitu for in pengulangan index/key elemen dalam object, sedangkan for of pengulangan nilai elemen dalam object.
+
+### Destructuring
+
+> [!NOTE]
+> fitur yang memungkinkan anda mengekstrak nilai dari aray atau object secara ringkas dan terstruktur.
+> bayangkan seperti membongkar paket dimana kita bisa menentukan bagian mana yg ingin kita ambil dan simpan ke dalam variable yg berbeda
